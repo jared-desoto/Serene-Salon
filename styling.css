@@ -1,0 +1,14 @@
+
+h1 {
+    font-size: 3em;
+    font-family: 'Julee';
+    color: #b28523;
+}
+.carousel-inner img {
+  margin: auto;
+}
+
+#AdornLogo{
+    height: 289px;
+    width: 780px;
+}
